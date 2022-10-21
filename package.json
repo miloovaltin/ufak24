@@ -1,0 +1,16 @@
+{
+"name": "ufak24",
+"theme": "ufak24",
+"version": "10.8.7",
+"description": "ufak24 ทางเข้าหลักเว็บคาสิโนเว็บตรง สมาชิกเยอะ แจกเครดิตฟรี",
+"keywords": [
+"ufak24",
+"ufak24 เครดิตฟรี",
+"ufak24 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ufak24",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
